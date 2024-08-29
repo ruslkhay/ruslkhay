@@ -1,16 +1,32 @@
-## Hi there 👋
+## Greetings! :raising_hand:
 
-<!--
-**ruslkhay/ruslkhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:smiley: My name is Ruslan and I'm student at MSU. Here is info about me:
+- My main pet-project is an crossplatform [application](https://github.com/ruslkhay/ReaBooKivyMD) for learning foreign langueages
+- My master discertation devoted to research on extreme order statistics and analyse statistical regularities in the interplanetary magnetic field
+- I’m currently working in Huawei project, connected with optimal path finding algorithm and it's application in computer hardware constructing
 
-Here are some ideas to get you started:
+📫 How to reach me:
+- Mail - khayrusaf@gamil.com, h.ruslan2000@yandex.ru
+- Leedcode - [ruslkhay](https://leetcode.com/u/ruslkhay/)
+- LinkedIn - [Ruslan Khaydarpashic](https://linkedin.com/in/ruslan-khaydarpashich-214784282)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun fact: *there are countable number of different infinities*
+
+<p align="center">
+  <h3> :chart_with_upwards_trend: My GitHub stats </h3>
+   </p>
+
+<p align="left" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=ruslkhay&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+### - Skills
+[![Top](https://skillicons.dev/icons?i=py,cpp,git,postgres,bash)](https://skillicons.dev)
+
+[![Other](https://skillicons.dev/icons?i=c,cs,dotnet,r)](https://skillicons.dev)
+
+[![Else](https://skillicons.dev/icons?i=linux,windows,github,gitlab)](https://skillicons.dev)
+
