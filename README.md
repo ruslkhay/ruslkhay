@@ -17,7 +17,7 @@
   
 :zap: Fun fact: *there are countable number of different infinities*
 
-### :chart_with_upwards_trend: My stats
+### My stats
 
 <p align="left" >
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,6 +30,8 @@
 
 ### Skills
 <!--
+:chart_with_upwards_trend: 
+🛠️
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
