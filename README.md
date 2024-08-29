@@ -28,7 +28,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ruslkhay)
 
-### - Skills
+### Skills
 <!--
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
