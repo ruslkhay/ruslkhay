@@ -1,8 +1,8 @@
 ## Greetings! :raising_hand:
 
 :smiley: My name is Ruslan and I'm student at MSU. Here is info about me:
-- My main pet-project is an crossplatform [application](https://github.com/ruslkhay/ReaBooKivyMD) for learning foreign langueages
-- My [master's dissertation](https://github.com/ruslkhay/Magfield) is devoted to research on extreme order statistics and analyse statistical regularities in the interplanetary magnetic field
+- My main pet-project is an cross-platform [application](https://github.com/ruslkhay/ReaBooKivyMD) for learning foreign languages
+- My [master's dissertation](https://github.com/ruslkhay/Magfield) is devoted to research on extreme order statistics and analyses statistical regularities in the interplanetary magnetic field
 - I’m currently working in Huawei project, connected with optimal path finding algorithm and it's application in computer hardware constructing
 
 📫 How to reach me:
@@ -17,7 +17,7 @@ Fun fact: *there are countable number of different infinities*
    </p>
 
 <p align="left" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api?username=ruslkhay&&show_icons=true&theme=radical"/>
   </a>
 
