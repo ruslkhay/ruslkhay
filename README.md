@@ -72,9 +72,11 @@
 
 -->
 
-![Top](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,git,postgres,jupyter&titles=true)
+| General  | Data Engineering | Data Science |
+| :------: | :--------------: | :----------: |
+| ![Top](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,linux&titles=true) |   [![Data Engineering](https://skillicons.dev/icons?i=postgresql,aws,azure)](https://skillicons.dev)   | [![Data Science](https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow)](https://skillicons.dev) |
 
-[![Other](https://skillicons.dev/icons?i=bash,c,cs,dotnet,r)](https://skillicons.dev)
+
 
 <!--
 [![Else](https://skillicons.dev/icons?i=linux,windows,github,gitlab)](https://skillicons.dev)
