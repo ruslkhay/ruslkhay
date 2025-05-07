@@ -1,10 +1,5 @@
 ## Greetings! :raising_hand:
 
-:smiley: My name is Ruslan and I'm student at MSU. Here is info about me:
-- My main pet-project is an cross-platform [application](https://github.com/ruslkhay/ReaBooKivyMD) for learning foreign languages
-- My [master's dissertation](https://github.com/ruslkhay/Magfield) is devoted to research on extreme order statistics and analyses statistical regularities in the interplanetary magnetic field
-- I’m currently working in **Huawei's** project, connected with optimal path finding algorithm and it's application in computer hardware constructing
-
 📫 How to reach me:
 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:khayrusaf@gamil.com)
