@@ -25,8 +25,6 @@
 ### Skills 🛠️
 - **Backend Development**: Python, C++.
 - **ML/DL**: Scikit-learn, TensorFlow, PyTorch, SciPy
-- **Version Control**: Git
-- **Android Development**: Python KivyMD Framework, a little Kotlin
 - **Project Managment**: Scrum, Kanban, Waterfall
 <!--
 - **Databases**: MySQL, PostgreSQL, Redis
