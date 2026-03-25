@@ -22,11 +22,12 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ruslkhay)
 
+<!--
 ### Skills 🛠️
 - **Backend Development**: Python, C++.
 - **ML/DL**: Scikit-learn, TensorFlow, PyTorch, SciPy
 - **Project Managment**: Scrum, Kanban, Waterfall
-<!--
+
 - **Databases**: MySQL, PostgreSQL, Redis
 - **Containers & Orchestration**: Docker, Kubernetes.
 -->
