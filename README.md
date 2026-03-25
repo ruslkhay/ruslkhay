@@ -14,11 +14,11 @@
 
 ### My stats
 
-<p align="left" >
+<!-- <p align="left" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api?username=ruslkhay&&show_icons=true&theme=dracula"/>
   </a>
-</p>
+</p> -->
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ruslkhay)
 
